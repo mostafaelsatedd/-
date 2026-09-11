@@ -1,178 +1,133 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0">
+  <channel>
 
-<channel>
+    <title>شرح الآجرومية لابن عثيمين</title>
+    <link>https://binthabt.al3ilm.net/</link>
+    <description>دروس شرح الآجرومية لفضيلة الشيخ محمد بن صالح العثيمين</description>
+    <language>ar</language>
 
-<title>شرح المقدمة الآجرومية</title>
-<link>https://archive.org/details/alajuroumia_ibn_otheimeen</link>
-<description>شرح المقدمة الآجرومية في علم النحو للشيخ محمد بن صالح العثيمين رحمه الله</description>
-<language>ar</language>
-<copyright>شرح المقدمة الآجرومية</copyright>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:summary>شرح المقدمة الآجرومية في علم النحو</itunes:summary>
-<itunes:explicit>false</itunes:explicit>
-<itunes:category text="تعليم"/>
+    <item>
+      <title>تعريف الكلام</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_01.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_01</guid>
+    </item>
 
-<item>
-<title>الدرس الأول</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الأول</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/01.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-001</guid>
-</item>
+    <item>
+      <title>الكلام وأقسامه</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_02.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_02</guid>
+    </item>
 
-<item>
-<title>الدرس الثاني</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الثاني</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/02.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-002</guid>
-</item>
+    <item>
+      <title>علامات الاسم</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_03.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_03</guid>
+    </item>
 
-<item>
-<title>الدرس الثالث</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الثالث</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/03.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-003</guid>
-</item>
+    <item>
+      <title>علامات الفعل</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_04.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_04</guid>
+    </item>
 
-<item>
-<title>الدرس الرابع</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الرابع</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/04.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-004</guid>
-</item>
+    <item>
+      <title>علامات الحرف</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_05.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_05</guid>
+    </item>
 
-<item>
-<title>الدرس الخامس</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الخامس</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/05.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-005</guid>
-</item>
+    <item>
+      <title>الإعراب والبناء</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_06.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_06</guid>
+    </item>
 
-<item>
-<title>الدرس السادس</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس السادس</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/06.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-006</guid>
-</item>
+    <item>
+      <title>علامات الإعراب</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_07.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_07</guid>
+    </item>
 
-<item>
-<title>الدرس السابع</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس السابع</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/07.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-007</guid>
-</item>
+    <item>
+      <title>علامات الرفع</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_08.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_08</guid>
+    </item>
 
-<item>
-<title>الدرس الثامن</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الثامن</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/08.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-008</guid>
-</item>
+    <item>
+      <title>علامات النصب</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_09.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_09</guid>
+    </item>
 
-<item>
-<title>الدرس التاسع</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس التاسع</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/09.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-009</guid>
-</item>
+    <item>
+      <title>علامات الخفض</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_10.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_10</guid>
+    </item>
 
-<item>
-<title>الدرس العاشر</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس العاشر</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/10.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-010</guid>
-</item>
+    <item>
+      <title>علامات الجزم</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_11.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_11</guid>
+    </item>
 
-<item>
-<title>الدرس الحادي عشر</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الحادي عشر</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/11.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-011</guid>
-</item>
+    <item>
+      <title>المعرب والمبني</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_12.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_12</guid>
+    </item>
 
-<item>
-<title>الدرس الثاني عشر</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الثاني عشر</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/12.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-012</guid>
-</item>
+    <item>
+      <title>الأفعال</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_13.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_13</guid>
+    </item>
 
-<item>
-<title>الدرس الثالث عشر</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الثالث عشر</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/13.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-013</guid>
-</item>
+    <item>
+      <title>الفاعل</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_14.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_14</guid>
+    </item>
 
-<item>
-<title>الدرس الرابع عشر</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الرابع عشر</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/14.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-014</guid>
-</item>
+    <item>
+      <title>نائب الفاعل</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_15.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_15</guid>
+    </item>
 
-<item>
-<title>الدرس الخامس عشر</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس الخامس عشر</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/15.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-015</guid>
-</item>
+    <item>
+      <title>المبتدأ والخبر</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_16.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_16</guid>
+    </item>
 
-<item>
-<title>الدرس السادس عشر</title>
-<description>شرح المقدمة الآجرومية</description>
-<itunes:title>الدرس السادس عشر</itunes:title>
-<itunes:author>محمد بن صالح العثيمين</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/16.mp3" length="1" type="audio/mpeg"/>
-<guid isPermaLink="false">الدرس-016</guid>
-</item>
+    <item>
+      <title>كان وأخواتها</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_17.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_17</guid>
+    </item>
 
-</channel>
+    <item>
+      <title>إن وأخواتها</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_18.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_18</guid>
+    </item>
+
+    <item>
+      <title>الصفة</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_19.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_19</guid>
+    </item>
+
+    <item>
+      <title>العطف</title>
+      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_20.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">alajrumih_binothaimeen_20</guid>
+    </item>
+
+  </channel>
 </rss>
+```
