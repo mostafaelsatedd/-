@@ -1,89 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist>
-    <series>
-        <title>شرح المقدمة الآجرومية - الشيخ محمد بن صالح العثيمين</title>
-        <description>شرح المقدمة الآجرومية في علم النحو لأبي عبد الله محمد بن محمد بن داود الصنهاجي (ابن آجروم)</description>
-        <sheikh>محمد بن صالح العثيمين</sheikh>
-        <total_lessons>16</total_lessons>
-    </series>
-    <track>
-        <order>1</order>
-        <title>شرح المقدمة الآجرومية 1</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/01.mp3</url>
-    </track>
-    <track>
-        <order>2</order>
-        <title>شرح المقدمة الآجرومية 2</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/02.mp3</url>
-    </track>
-    <track>
-        <order>3</order>
-        <title>شرح المقدمة الآجرومية 3</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/03.mp3</url>
-    </track>
-    <track>
-        <order>4</order>
-        <title>شرح المقدمة الآجرومية 4</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/04.mp3</url>
-    </track>
-    <track>
-        <order>5</order>
-        <title>شرح المقدمة الآجرومية 5</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/05.mp3</url>
-    </track>
-    <track>
-        <order>6</order>
-        <title>شرح المقدمة الآجرومية 6</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/06.mp3</url>
-    </track>
-    <track>
-        <order>7</order>
-        <title>شرح المقدمة الآجرومية 7</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/07.mp3</url>
-    </track>
-    <track>
-        <order>8</order>
-        <title>شرح المقدمة الآجرومية 8</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/08.mp3</url>
-    </track>
-    <track>
-        <order>9</order>
-        <title>شرح المقدمة الآجرومية 9</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/09.mp3</url>
-    </track>
-    <track>
-        <order>10</order>
-        <title>شرح المقدمة الآجرومية 10</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/10.mp3</url>
-    </track>
-    <track>
-        <order>11</order>
-        <title>شرح المقدمة الآجرومية 11</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/11.mp3</url>
-    </track>
-    <track>
-        <order>12</order>
-        <title>شرح المقدمة الآجرومية 12</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/12.mp3</url>
-    </track>
-    <track>
-        <order>13</order>
-        <title>شرح المقدمة الآجرومية 13</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/13.mp3</url>
-    </track>
-    <track>
-        <order>14</order>
-        <title>شرح المقدمة الآجرومية 14</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/14.mp3</url>
-    </track>
-    <track>
-        <order>15</order>
-        <title>شرح المقدمة الآجرومية 15</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/15.mp3</url>
-    </track>
-    <track>
-        <order>16</order>
-        <title>شرح المقدمة الآجرومية 16</title>
-        <url>https://archive.org/download/ajoromiah.othaimin/16.mp3</url>
-    </track>
-</playlist>
+<rss version="2.0">
+  <channel>
+    <title>شرح المقدمة الآجرومية - الشيخ محمد بن صالح العثيمين</title>
+    <link>https://archive.org/details/alajuroumia_ibn_otheimeen</link>
+    <description>سلسلة شرح المقدمة الآجرومية في علم النحو للإمام ابن آجروم، بصوت فضيلة الشيخ محمد بن صالح العثيمين رحمه الله. السلسلة كاملة من 1 إلى 16.</description>
+    <language>ar</language>
+    <author>Muhammad ibn Saalih al-Uthaymeen (محمد بن صالح العثيمين)</author>
+
+    <!-- 001 -->
+    <item>
+      <title>001 - شرح المقدمة الآجرومية - الدرس الأول</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/01.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/01.mp3</guid>
+    </item>
+
+    <!-- 002 -->
+    <item>
+      <title>002 - شرح المقدمة الآجرومية - الدرس الثاني</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/02.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/02.mp3</guid>
+    </item>
+
+    <!-- 003 -->
+    <item>
+      <title>003 - شرح المقدمة الآجرومية - الدرس الثالث</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/03.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/03.mp3</guid>
+    </item>
+
+    <!-- 004 -->
+    <item>
+      <title>004 - شرح المقدمة الآجرومية - الدرس الرابع</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/04.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/04.mp3</guid>
+    </item>
+
+    <!-- 005 -->
+    <item>
+      <title>005 - شرح المقدمة الآجرومية - الدرس الخامس</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/05.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/05.mp3</guid>
+    </item>
+
+    <!-- 006 -->
+    <item>
+      <title>006 - شرح المقدمة الآجرومية - الدرس السادس</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/06.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/06.mp3</guid>
+    </item>
+
+    <!-- 007 -->
+    <item>
+      <title>007 - شرح المقدمة الآجرومية - الدرس السابع</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/07.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/07.mp3</guid>
+    </item>
+
+    <!-- 008 -->
+    <item>
+      <title>008 - شرح المقدمة الآجرومية - الدرس الثامن</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/08.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/08.mp3</guid>
+    </item>
+
+    <!-- 009 -->
+    <item>
+      <title>009 - شرح المقدمة الآجرومية - الدرس التاسع</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/09.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/09.mp3</guid>
+    </item>
+
+    <!-- 010 -->
+    <item>
+      <title>010 - شرح المقدمة الآجرومية - الدرس العاشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/10.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/10.mp3</guid>
+    </item>
+
+    <!-- 011 -->
+    <item>
+      <title>011 - شرح المقدمة الآجرومية - الدرس الحادي عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/11.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/11.mp3</guid>
+    </item>
+
+    <!-- 012 -->
+    <item>
+      <title>012 - شرح المقدمة الآجرومية - الدرس الثاني عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/12.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/12.mp3</guid>
+    </item>
+
+    <!-- 013 -->
+    <item>
+      <title>013 - شرح المقدمة الآجرومية - الدرس الثالث عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/13.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/13.mp3</guid>
+    </item>
+
+    <!-- 014 -->
+    <item>
+      <title>014 - شرح المقدمة الآجرومية - الدرس الرابع عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/14.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/14.mp3</guid>
+    </item>
+
+    <!-- 015 -->
+    <item>
+      <title>015 - شرح المقدمة الآجرومية - الدرس الخامس عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/15.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/15.mp3</guid>
+    </item>
+
+    <!-- 016 -->
+    <item>
+      <title>016 - شرح المقدمة الآجرومية - الدرس السادس عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/16.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/alajuroumia_ibn_otheimeen/16.mp3</guid>
+    </item>
+
+  </channel>
+</rss>
