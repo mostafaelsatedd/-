@@ -4,128 +4,104 @@
   <channel>
 
     <title>شرح الآجرومية لابن عثيمين</title>
-    <link>https://binthabt.al3ilm.net/</link>
-    <description>دروس شرح الآجرومية لفضيلة الشيخ محمد بن صالح العثيمين</description>
+    <link>https://archive.org/details/alajuroumia_ibn_otheimeen</link>
+    <description>شرح الآجرومية للشيخ ابن عثيمين</description>
     <language>ar</language>
 
     <item>
-      <title>تعريف الكلام</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_01.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_01</guid>
+      <title>الدرس الأول</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/01.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">01</guid>
     </item>
 
     <item>
-      <title>الكلام وأقسامه</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_02.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_02</guid>
+      <title>الدرس الثاني</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/02.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">02</guid>
     </item>
 
     <item>
-      <title>علامات الاسم</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_03.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_03</guid>
+      <title>الدرس الثالث</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/03.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">03</guid>
     </item>
 
     <item>
-      <title>علامات الفعل</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_04.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_04</guid>
+      <title>الدرس الرابع</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/04.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">04</guid>
     </item>
 
     <item>
-      <title>علامات الحرف</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_05.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_05</guid>
+      <title>الدرس الخامس</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/05.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">05</guid>
     </item>
 
     <item>
-      <title>الإعراب والبناء</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_06.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_06</guid>
+      <title>الدرس السادس</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/06.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">06</guid>
     </item>
 
     <item>
-      <title>علامات الإعراب</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_07.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_07</guid>
+      <title>الدرس السابع</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/07.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">07</guid>
     </item>
 
     <item>
-      <title>علامات الرفع</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_08.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_08</guid>
+      <title>الدرس الثامن</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/08.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">08</guid>
     </item>
 
     <item>
-      <title>علامات النصب</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_09.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_09</guid>
+      <title>الدرس التاسع</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/09.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">09</guid>
     </item>
 
     <item>
-      <title>علامات الخفض</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_10.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_10</guid>
+      <title>الدرس العاشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/10.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">10</guid>
     </item>
 
     <item>
-      <title>علامات الجزم</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_11.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_11</guid>
+      <title>الدرس الحادي عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/11.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">11</guid>
     </item>
 
     <item>
-      <title>المعرب والمبني</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_12.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_12</guid>
+      <title>الدرس الثاني عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/12.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">12</guid>
     </item>
 
     <item>
-      <title>الأفعال</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_13.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_13</guid>
+      <title>الدرس الثالث عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/13.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">13</guid>
     </item>
 
     <item>
-      <title>الفاعل</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_14.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_14</guid>
+      <title>الدرس الرابع عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/14.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">14</guid>
     </item>
 
     <item>
-      <title>نائب الفاعل</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_15.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_15</guid>
+      <title>الدرس الخامس عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/15.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">15</guid>
     </item>
 
     <item>
-      <title>المبتدأ والخبر</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_16.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_16</guid>
-    </item>
-
-    <item>
-      <title>كان وأخواتها</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_17.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_17</guid>
-    </item>
-
-    <item>
-      <title>إن وأخواتها</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_18.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_18</guid>
-    </item>
-
-    <item>
-      <title>الصفة</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_19.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_19</guid>
-    </item>
-
-    <item>
-      <title>العطف</title>
-      <enclosure url="https://binthabt.al3ilm.net/up/sites/7/alddurus_binthabt_alajrumih_binothaimeen_20.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">alajrumih_binothaimeen_20</guid>
+      <title>الدرس السادس عشر</title>
+      <enclosure url="https://archive.org/download/alajuroumia_ibn_otheimeen/16.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">16</guid>
     </item>
 
   </channel>
