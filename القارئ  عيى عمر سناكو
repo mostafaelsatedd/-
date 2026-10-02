@@ -1,578 +1,580 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>القرآن الكريم - عيسى عمر سناكو</title>
-    <description>القرآن الكريم بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+    <title>القرآن - عيسى سناكو</title>
+    <description>القرآن الكريم بصوت عيسى عمر سناكو - حفص عن عاصم</description>
     <language>ar</language>
+
     <item>
-      <title>سورة الفاتحة - عيسى عمر سناكو</title>
-      <description>سورة الفاتحة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>001 - الفاتحة</title>
+      <description>الفاتحة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/001.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة البقرة - عيسى عمر سناكو</title>
-      <description>سورة البقرة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>002 - البقرة</title>
+      <description>البقرة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/002.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة آل عمران - عيسى عمر سناكو</title>
-      <description>سورة آل عمران بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>003 - آل عمران</title>
+      <description>آل عمران - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/003.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النساء - عيسى عمر سناكو</title>
-      <description>سورة النساء بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>004 - النساء</title>
+      <description>النساء - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/004.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المائدة - عيسى عمر سناكو</title>
-      <description>سورة المائدة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>005 - المائدة</title>
+      <description>المائدة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/005.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الأنعام - عيسى عمر سناكو</title>
-      <description>سورة الأنعام بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>006 - الأنعام</title>
+      <description>الأنعام - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/006.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الأعراف - عيسى عمر سناكو</title>
-      <description>سورة الأعراف بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>007 - الأعراف</title>
+      <description>الأعراف - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/007.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الأنفال - عيسى عمر سناكو</title>
-      <description>سورة الأنفال بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>008 - الأنفال</title>
+      <description>الأنفال - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/008.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة التوبة - عيسى عمر سناكو</title>
-      <description>سورة التوبة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>009 - التوبة</title>
+      <description>التوبة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/009.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة يونس - عيسى عمر سناكو</title>
-      <description>سورة يونس بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>010 - يونس</title>
+      <description>يونس - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/010.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة هود - عيسى عمر سناكو</title>
-      <description>سورة هود بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>011 - هود</title>
+      <description>هود - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/011.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة يوسف - عيسى عمر سناكو</title>
-      <description>سورة يوسف بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>012 - يوسف</title>
+      <description>يوسف - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/012.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الرعد - عيسى عمر سناكو</title>
-      <description>سورة الرعد بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>013 - الرعد</title>
+      <description>الرعد - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/013.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة إبراهيم - عيسى عمر سناكو</title>
-      <description>سورة إبراهيم بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>014 - إبراهيم</title>
+      <description>إبراهيم - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/014.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الحجر - عيسى عمر سناكو</title>
-      <description>سورة الحجر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>015 - الحجر</title>
+      <description>الحجر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/015.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النحل - عيسى عمر سناكو</title>
-      <description>سورة النحل بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>016 - النحل</title>
+      <description>النحل - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/016.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الإسراء - عيسى عمر سناكو</title>
-      <description>سورة الإسراء بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>017 - الإسراء</title>
+      <description>الإسراء - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/017.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الكهف - عيسى عمر سناكو</title>
-      <description>سورة الكهف بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>018 - الكهف</title>
+      <description>الكهف - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/018.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة مريم - عيسى عمر سناكو</title>
-      <description>سورة مريم بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>019 - مريم</title>
+      <description>مريم - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/019.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة طه - عيسى عمر سناكو</title>
-      <description>سورة طه بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>020 - طه</title>
+      <description>طه - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/020.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الأنبياء - عيسى عمر سناكو</title>
-      <description>سورة الأنبياء بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>021 - الأنبياء</title>
+      <description>الأنبياء - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/021.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الحج - عيسى عمر سناكو</title>
-      <description>سورة الحج بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>022 - الحج</title>
+      <description>الحج - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/022.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المؤمنون - عيسى عمر سناكو</title>
-      <description>سورة المؤمنون بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>023 - المؤمنون</title>
+      <description>المؤمنون - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/023.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النور - عيسى عمر سناكو</title>
-      <description>سورة النور بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>024 - النور</title>
+      <description>النور - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/024.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الفرقان - عيسى عمر سناكو</title>
-      <description>سورة الفرقان بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>025 - الفرقان</title>
+      <description>الفرقان - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/025.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الشعراء - عيسى عمر سناكو</title>
-      <description>سورة الشعراء بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>026 - الشعراء</title>
+      <description>الشعراء - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/026.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النمل - عيسى عمر سناكو</title>
-      <description>سورة النمل بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>027 - النمل</title>
+      <description>النمل - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/027.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة القصص - عيسى عمر سناكو</title>
-      <description>سورة القصص بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>028 - القصص</title>
+      <description>القصص - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/028.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة العنكبوت - عيسى عمر سناكو</title>
-      <description>سورة العنكبوت بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>029 - العنكبوت</title>
+      <description>العنكبوت - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/029.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الروم - عيسى عمر سناكو</title>
-      <description>سورة الروم بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>030 - الروم</title>
+      <description>الروم - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/030.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة لقمان - عيسى عمر سناكو</title>
-      <description>سورة لقمان بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>031 - لقمان</title>
+      <description>لقمان - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/031.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة السجدة - عيسى عمر سناكو</title>
-      <description>سورة السجدة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>032 - السجدة</title>
+      <description>السجدة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/032.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الأحزاب - عيسى عمر سناكو</title>
-      <description>سورة الأحزاب بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>033 - الأحزاب</title>
+      <description>الأحزاب - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/033.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة سبأ - عيسى عمر سناكو</title>
-      <description>سورة سبأ بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>034 - سبأ</title>
+      <description>سبأ - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/034.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة فاطر - عيسى عمر سناكو</title>
-      <description>سورة فاطر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>035 - فاطر</title>
+      <description>فاطر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/035.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة يس - عيسى عمر سناكو</title>
-      <description>سورة يس بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>036 - يس</title>
+      <description>يس - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/036.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الصافات - عيسى عمر سناكو</title>
-      <description>سورة الصافات بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>037 - الصافات</title>
+      <description>الصافات - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/037.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة ص - عيسى عمر سناكو</title>
-      <description>سورة ص بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>038 - ص</title>
+      <description>ص - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/038.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الزمر - عيسى عمر سناكو</title>
-      <description>سورة الزمر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>039 - الزمر</title>
+      <description>الزمر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/039.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة غافر - عيسى عمر سناكو</title>
-      <description>سورة غافر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>040 - غافر</title>
+      <description>غافر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/040.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة فصلت - عيسى عمر سناكو</title>
-      <description>سورة فصلت بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>041 - فصلت</title>
+      <description>فصلت - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/041.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الشورى - عيسى عمر سناكو</title>
-      <description>سورة الشورى بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>042 - الشورى</title>
+      <description>الشورى - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/042.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الزخرف - عيسى عمر سناكو</title>
-      <description>سورة الزخرف بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>043 - الزخرف</title>
+      <description>الزخرف - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/043.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الدخان - عيسى عمر سناكو</title>
-      <description>سورة الدخان بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>044 - الدخان</title>
+      <description>الدخان - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/044.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الجاثية - عيسى عمر سناكو</title>
-      <description>سورة الجاثية بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>045 - الجاثية</title>
+      <description>الجاثية - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/045.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الأحقاف - عيسى عمر سناكو</title>
-      <description>سورة الأحقاف بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>046 - الأحقاف</title>
+      <description>الأحقاف - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/046.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة محمد - عيسى عمر سناكو</title>
-      <description>سورة محمد بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>047 - محمد</title>
+      <description>محمد - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/047.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الفتح - عيسى عمر سناكو</title>
-      <description>سورة الفتح بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>048 - الفتح</title>
+      <description>الفتح - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/048.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الحجرات - عيسى عمر سناكو</title>
-      <description>سورة الحجرات بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>049 - الحجرات</title>
+      <description>الحجرات - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/049.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة ق - عيسى عمر سناكو</title>
-      <description>سورة ق بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>050 - ق</title>
+      <description>ق - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/050.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الذاريات - عيسى عمر سناكو</title>
-      <description>سورة الذاريات بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>051 - الذاريات</title>
+      <description>الذاريات - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/051.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الطور - عيسى عمر سناكو</title>
-      <description>سورة الطور بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>052 - الطور</title>
+      <description>الطور - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/052.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النجم - عيسى عمر سناكو</title>
-      <description>سورة النجم بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>053 - النجم</title>
+      <description>النجم - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/053.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة القمر - عيسى عمر سناكو</title>
-      <description>سورة القمر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>054 - القمر</title>
+      <description>القمر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/054.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الرحمن - عيسى عمر سناكو</title>
-      <description>سورة الرحمن بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>055 - الرحمن</title>
+      <description>الرحمن - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/055.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الواقعة - عيسى عمر سناكو</title>
-      <description>سورة الواقعة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>056 - الواقعة</title>
+      <description>الواقعة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/056.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الحديد - عيسى عمر سناكو</title>
-      <description>سورة الحديد بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>057 - الحديد</title>
+      <description>الحديد - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/057.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المجادلة - عيسى عمر سناكو</title>
-      <description>سورة المجادلة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>058 - المجادلة</title>
+      <description>المجادلة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/058.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الحشر - عيسى عمر سناكو</title>
-      <description>سورة الحشر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>059 - الحشر</title>
+      <description>الحشر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/059.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الممتحنة - عيسى عمر سناكو</title>
-      <description>سورة الممتحنة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>060 - الممتحنة</title>
+      <description>الممتحنة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/060.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الصف - عيسى عمر سناكو</title>
-      <description>سورة الصف بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>061 - الصف</title>
+      <description>الصف - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/061.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الجمعة - عيسى عمر سناكو</title>
-      <description>سورة الجمعة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>062 - الجمعة</title>
+      <description>الجمعة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/062.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المنافقون - عيسى عمر سناكو</title>
-      <description>سورة المنافقون بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>063 - المنافقون</title>
+      <description>المنافقون - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/063.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة التغابن - عيسى عمر سناكو</title>
-      <description>سورة التغابن بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>064 - التغابن</title>
+      <description>التغابن - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/064.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الطلاق - عيسى عمر سناكو</title>
-      <description>سورة الطلاق بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>065 - الطلاق</title>
+      <description>الطلاق - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/065.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة التحريم - عيسى عمر سناكو</title>
-      <description>سورة التحريم بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>066 - التحريم</title>
+      <description>التحريم - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/066.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الملك - عيسى عمر سناكو</title>
-      <description>سورة الملك بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>067 - الملك</title>
+      <description>الملك - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/067.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة القلم - عيسى عمر سناكو</title>
-      <description>سورة القلم بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>068 - القلم</title>
+      <description>القلم - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/068.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الحاقة - عيسى عمر سناكو</title>
-      <description>سورة الحاقة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>069 - الحاقة</title>
+      <description>الحاقة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/069.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المعارج - عيسى عمر سناكو</title>
-      <description>سورة المعارج بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>070 - المعارج</title>
+      <description>المعارج - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/070.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة نوح - عيسى عمر سناكو</title>
-      <description>سورة نوح بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>071 - نوح</title>
+      <description>نوح - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/071.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الجن - عيسى عمر سناكو</title>
-      <description>سورة الجن بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>072 - الجن</title>
+      <description>الجن - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/072.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المزمل - عيسى عمر سناكو</title>
-      <description>سورة المزمل بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>073 - المزمل</title>
+      <description>المزمل - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/073.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المدثر - عيسى عمر سناكو</title>
-      <description>سورة المدثر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>074 - المدثر</title>
+      <description>المدثر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/074.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة القيامة - عيسى عمر سناكو</title>
-      <description>سورة القيامة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>075 - القيامة</title>
+      <description>القيامة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/075.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الإنسان - عيسى عمر سناكو</title>
-      <description>سورة الإنسان بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>076 - الإنسان</title>
+      <description>الإنسان - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/076.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المرسلات - عيسى عمر سناكو</title>
-      <description>سورة المرسلات بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>077 - المرسلات</title>
+      <description>المرسلات - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/077.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النبأ - عيسى عمر سناكو</title>
-      <description>سورة النبأ بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>078 - النبأ</title>
+      <description>النبأ - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/078.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النازعات - عيسى عمر سناكو</title>
-      <description>سورة النازعات بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>079 - النازعات</title>
+      <description>النازعات - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/079.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة عبس - عيسى عمر سناكو</title>
-      <description>سورة عبس بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>080 - عبس</title>
+      <description>عبس - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/080.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة التكوير - عيسى عمر سناكو</title>
-      <description>سورة التكوير بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>081 - التكوير</title>
+      <description>التكوير - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/081.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الانفطار - عيسى عمر سناكو</title>
-      <description>سورة الانفطار بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>082 - الانفطار</title>
+      <description>الانفطار - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/082.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المطففين - عيسى عمر سناكو</title>
-      <description>سورة المطففين بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>083 - المطففين</title>
+      <description>المطففين - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/083.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الانشقاق - عيسى عمر سناكو</title>
-      <description>سورة الانشقاق بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>084 - الانشقاق</title>
+      <description>الانشقاق - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/084.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة البروج - عيسى عمر سناكو</title>
-      <description>سورة البروج بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>085 - البروج</title>
+      <description>البروج - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/085.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الطارق - عيسى عمر سناكو</title>
-      <description>سورة الطارق بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>086 - الطارق</title>
+      <description>الطارق - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/086.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الأعلى - عيسى عمر سناكو</title>
-      <description>سورة الأعلى بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>087 - الأعلى</title>
+      <description>الأعلى - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/087.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الغاشية - عيسى عمر سناكو</title>
-      <description>سورة الغاشية بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>088 - الغاشية</title>
+      <description>الغاشية - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/088.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الفجر - عيسى عمر سناكو</title>
-      <description>سورة الفجر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>089 - الفجر</title>
+      <description>الفجر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/089.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة البلد - عيسى عمر سناكو</title>
-      <description>سورة البلد بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>090 - البلد</title>
+      <description>البلد - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/090.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الشمس - عيسى عمر سناكو</title>
-      <description>سورة الشمس بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>091 - الشمس</title>
+      <description>الشمس - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/091.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الليل - عيسى عمر سناكو</title>
-      <description>سورة الليل بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>092 - الليل</title>
+      <description>الليل - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/092.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الضحى - عيسى عمر سناكو</title>
-      <description>سورة الضحى بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>093 - الضحى</title>
+      <description>الضحى - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/093.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الشرح - عيسى عمر سناكو</title>
-      <description>سورة الشرح بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>094 - الشرح</title>
+      <description>الشرح - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/094.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة التين - عيسى عمر سناكو</title>
-      <description>سورة التين بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>095 - التين</title>
+      <description>التين - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/095.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة العلق - عيسى عمر سناكو</title>
-      <description>سورة العلق بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>096 - العلق</title>
+      <description>العلق - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/096.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة القدر - عيسى عمر سناكو</title>
-      <description>سورة القدر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>097 - القدر</title>
+      <description>القدر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/097.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة البينة - عيسى عمر سناكو</title>
-      <description>سورة البينة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>098 - البينة</title>
+      <description>البينة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/098.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الزلزلة - عيسى عمر سناكو</title>
-      <description>سورة الزلزلة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>099 - الزلزلة</title>
+      <description>الزلزلة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/099.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة العاديات - عيسى عمر سناكو</title>
-      <description>سورة العاديات بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>100 - العاديات</title>
+      <description>العاديات - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/100.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة القارعة - عيسى عمر سناكو</title>
-      <description>سورة القارعة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>101 - القارعة</title>
+      <description>القارعة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/101.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة التكاثر - عيسى عمر سناكو</title>
-      <description>سورة التكاثر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>102 - التكاثر</title>
+      <description>التكاثر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/102.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة العصر - عيسى عمر سناكو</title>
-      <description>سورة العصر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>103 - العصر</title>
+      <description>العصر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/103.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الهمزة - عيسى عمر سناكو</title>
-      <description>سورة الهمزة بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>104 - الهمزة</title>
+      <description>الهمزة - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/104.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الفيل - عيسى عمر سناكو</title>
-      <description>سورة الفيل بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>105 - الفيل</title>
+      <description>الفيل - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/105.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة قريش - عيسى عمر سناكو</title>
-      <description>سورة قريش بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>106 - قريش</title>
+      <description>قريش - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/106.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الماعون - عيسى عمر سناكو</title>
-      <description>سورة الماعون بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>107 - الماعون</title>
+      <description>الماعون - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/107.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الكوثر - عيسى عمر سناكو</title>
-      <description>سورة الكوثر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>108 - الكوثر</title>
+      <description>الكوثر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/108.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الكافرون - عيسى عمر سناكو</title>
-      <description>سورة الكافرون بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>109 - الكافرون</title>
+      <description>الكافرون - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/109.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة النصر - عيسى عمر سناكو</title>
-      <description>سورة النصر بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>110 - النصر</title>
+      <description>النصر - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/110.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة المسد - عيسى عمر سناكو</title>
-      <description>سورة المسد بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>111 - المسد</title>
+      <description>المسد - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/111.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الإخلاص - عيسى عمر سناكو</title>
-      <description>سورة الإخلاص بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>112 - الإخلاص</title>
+      <description>الإخلاص - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/112.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الفلق - عيسى عمر سناكو</title>
-      <description>سورة الفلق بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>113 - الفلق</title>
+      <description>الفلق - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/113.mp3" type="audio/mpeg"/>
     </item>
     <item>
-      <title>سورة الناس - عيسى عمر سناكو</title>
-      <description>سورة الناس بصوت القارئ عيسى عمر سناكو - رواية حفص عن عاصم</description>
+      <title>114 - الناس</title>
+      <description>الناس - عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/114.mp3" type="audio/mpeg"/>
     </item>
+
   </channel>
 </rss>
