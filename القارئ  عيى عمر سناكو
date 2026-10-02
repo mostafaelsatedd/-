@@ -1,578 +1,690 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>القرآن - عيسى سناكو</title>
     <description>القرآن الكريم بصوت عيسى عمر سناكو - حفص عن عاصم</description>
-    <language>ar</language>
 
     <item>
       <title>001 - الفاتحة</title>
-      <description>الفاتحة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/001.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>002 - البقرة</title>
-      <description>البقرة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/002.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>003 - آل عمران</title>
-      <description>آل عمران - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/003.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>004 - النساء</title>
-      <description>النساء - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/004.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>005 - المائدة</title>
-      <description>المائدة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/005.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>006 - الأنعام</title>
-      <description>الأنعام - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/006.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>007 - الأعراف</title>
-      <description>الأعراف - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/007.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>008 - الأنفال</title>
-      <description>الأنفال - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/008.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>009 - التوبة</title>
-      <description>التوبة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/009.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>010 - يونس</title>
-      <description>يونس - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/010.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>011 - هود</title>
-      <description>هود - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/011.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>012 - يوسف</title>
-      <description>يوسف - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/012.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>013 - الرعد</title>
-      <description>الرعد - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/013.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>014 - إبراهيم</title>
-      <description>إبراهيم - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/014.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>015 - الحجر</title>
-      <description>الحجر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/015.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>016 - النحل</title>
-      <description>النحل - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/016.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>017 - الإسراء</title>
-      <description>الإسراء - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/017.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>018 - الكهف</title>
-      <description>الكهف - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/018.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>019 - مريم</title>
-      <description>مريم - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/019.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>020 - طه</title>
-      <description>طه - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/020.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>021 - الأنبياء</title>
-      <description>الأنبياء - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/021.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>022 - الحج</title>
-      <description>الحج - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/022.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>023 - المؤمنون</title>
-      <description>المؤمنون - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/023.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>024 - النور</title>
-      <description>النور - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/024.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>025 - الفرقان</title>
-      <description>الفرقان - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/025.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>026 - الشعراء</title>
-      <description>الشعراء - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/026.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>027 - النمل</title>
-      <description>النمل - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/027.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>028 - القصص</title>
-      <description>القصص - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/028.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>029 - العنكبوت</title>
-      <description>العنكبوت - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/029.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>030 - الروم</title>
-      <description>الروم - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/030.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>031 - لقمان</title>
-      <description>لقمان - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/031.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>032 - السجدة</title>
-      <description>السجدة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/032.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>033 - الأحزاب</title>
-      <description>الأحزاب - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/033.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>034 - سبأ</title>
-      <description>سبأ - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/034.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>035 - فاطر</title>
-      <description>فاطر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/035.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>036 - يس</title>
-      <description>يس - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/036.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>037 - الصافات</title>
-      <description>الصافات - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/037.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>038 - ص</title>
-      <description>ص - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/038.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>039 - الزمر</title>
-      <description>الزمر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/039.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>040 - غافر</title>
-      <description>غافر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/040.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>041 - فصلت</title>
-      <description>فصلت - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/041.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>042 - الشورى</title>
-      <description>الشورى - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/042.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>043 - الزخرف</title>
-      <description>الزخرف - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/043.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>044 - الدخان</title>
-      <description>الدخان - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/044.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>045 - الجاثية</title>
-      <description>الجاثية - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/045.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>046 - الأحقاف</title>
-      <description>الأحقاف - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/046.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>047 - محمد</title>
-      <description>محمد - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/047.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>048 - الفتح</title>
-      <description>الفتح - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/048.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>049 - الحجرات</title>
-      <description>الحجرات - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/049.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>050 - ق</title>
-      <description>ق - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/050.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>051 - الذاريات</title>
-      <description>الذاريات - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/051.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>052 - الطور</title>
-      <description>الطور - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/052.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>053 - النجم</title>
-      <description>النجم - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/053.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>054 - القمر</title>
-      <description>القمر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/054.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>055 - الرحمن</title>
-      <description>الرحمن - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/055.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>056 - الواقعة</title>
-      <description>الواقعة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/056.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>057 - الحديد</title>
-      <description>الحديد - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/057.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>058 - المجادلة</title>
-      <description>المجادلة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/058.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>059 - الحشر</title>
-      <description>الحشر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/059.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>060 - الممتحنة</title>
-      <description>الممتحنة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/060.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>061 - الصف</title>
-      <description>الصف - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/061.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>062 - الجمعة</title>
-      <description>الجمعة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/062.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>063 - المنافقون</title>
-      <description>المنافقون - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/063.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>064 - التغابن</title>
-      <description>التغابن - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/064.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>065 - الطلاق</title>
-      <description>الطلاق - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/065.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>066 - التحريم</title>
-      <description>التحريم - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/066.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>067 - الملك</title>
-      <description>الملك - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/067.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>068 - القلم</title>
-      <description>القلم - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/068.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>069 - الحاقة</title>
-      <description>الحاقة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/069.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>070 - المعارج</title>
-      <description>المعارج - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/070.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>071 - نوح</title>
-      <description>نوح - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/071.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>072 - الجن</title>
-      <description>الجن - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/072.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>073 - المزمل</title>
-      <description>المزمل - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/073.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>074 - المدثر</title>
-      <description>المدثر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/074.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>075 - القيامة</title>
-      <description>القيامة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/075.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>076 - الإنسان</title>
-      <description>الإنسان - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/076.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>077 - المرسلات</title>
-      <description>المرسلات - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/077.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>078 - النبأ</title>
-      <description>النبأ - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/078.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>079 - النازعات</title>
-      <description>النازعات - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/079.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>080 - عبس</title>
-      <description>عبس - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/080.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>081 - التكوير</title>
-      <description>التكوير - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/081.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>082 - الانفطار</title>
-      <description>الانفطار - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/082.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>083 - المطففين</title>
-      <description>المطففين - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/083.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>084 - الانشقاق</title>
-      <description>الانشقاق - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/084.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>085 - البروج</title>
-      <description>البروج - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/085.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>086 - الطارق</title>
-      <description>الطارق - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/086.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>087 - الأعلى</title>
-      <description>الأعلى - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/087.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>088 - الغاشية</title>
-      <description>الغاشية - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/088.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>089 - الفجر</title>
-      <description>الفجر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/089.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>090 - البلد</title>
-      <description>البلد - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/090.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>091 - الشمس</title>
-      <description>الشمس - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/091.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>092 - الليل</title>
-      <description>الليل - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/092.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>093 - الضحى</title>
-      <description>الضحى - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/093.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>094 - الشرح</title>
-      <description>الشرح - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/094.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>095 - التين</title>
-      <description>التين - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/095.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>096 - العلق</title>
-      <description>العلق - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/096.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>097 - القدر</title>
-      <description>القدر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/097.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>098 - البينة</title>
-      <description>البينة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/098.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>099 - الزلزلة</title>
-      <description>الزلزلة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/099.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>100 - العاديات</title>
-      <description>العاديات - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/100.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>101 - القارعة</title>
-      <description>القارعة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/101.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>102 - التكاثر</title>
-      <description>التكاثر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/102.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>103 - العصر</title>
-      <description>العصر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/103.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>104 - الهمزة</title>
-      <description>الهمزة - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/104.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>105 - الفيل</title>
-      <description>الفيل - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/105.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>106 - قريش</title>
-      <description>قريش - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/106.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>107 - الماعون</title>
-      <description>الماعون - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/107.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>108 - الكوثر</title>
-      <description>الكوثر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/108.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>109 - الكافرون</title>
-      <description>الكافرون - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/109.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>110 - النصر</title>
-      <description>النصر - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/110.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>111 - المسد</title>
-      <description>المسد - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/111.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>112 - الإخلاص</title>
-      <description>الإخلاص - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/112.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>113 - الفلق</title>
-      <description>الفلق - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/113.mp3" type="audio/mpeg"/>
     </item>
+
     <item>
       <title>114 - الناس</title>
-      <description>الناس - عيسى عمر سناكو</description>
+      <description>عيسى عمر سناكو</description>
       <enclosure url="https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/114.mp3" type="audio/mpeg"/>
     </item>
 
